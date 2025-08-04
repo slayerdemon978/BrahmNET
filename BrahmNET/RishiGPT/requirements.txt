@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+GitPython
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+faiss-cpu
+huggingface-hub
+transformers
+sentence-transformers
+google-search-results
+requests
+beautifulsoup4
+pypdf
+
